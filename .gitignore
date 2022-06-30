@@ -1,4 +1,8 @@
 tmp
+#Eclipse
+EclipseTest/.*
+EclipseTest/.*
+EclipseTest/.*
 
 # Compiled class file
 *.class
